@@ -1,5 +1,9 @@
 <!-- PROJECT LOGO -->
 
+
+You can access the LIVE website below
+https://sonozaki7.github.io/portfolio/
+
 - 👋 Hi, I’m So
 - 👀 I’m interested in Software development.
 - 🌱 I’m currently learning Computer Engineering at UBC.
