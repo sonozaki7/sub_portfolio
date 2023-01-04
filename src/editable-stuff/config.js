@@ -20,7 +20,7 @@ const mainBody = {
     },
     {
       image: "fa-facebook",
-      url: "https://www.facebook.com/sonozaki7",
+      url: "https://www.facebook.com/sonozaki7777",
     },
     {
       image: "fa-instagram",
@@ -28,11 +28,11 @@ const mainBody = {
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/sonozaki7/",
+      url: "https://www.linkedin.com/in/sonozaki/",
     },
     {
       image: "fa-twitter",
-      url: "https://www.twitter.com/sonozaki7/",
+      url: "https://www.twitter.com/So_Nozaki/",
     },
   ],
 };
@@ -59,7 +59,8 @@ const about = {
   message:
     "My name is So Nozaki. I am a 4th year Computer Engineering student at UBC. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
   //resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
-  resume: require("../editable-stuff/resume.pdf")
+  resume: "https://www.overleaf.com/read/hbhsbwbvgndr"
+  //resume: require("../editable-stuff/resume.pdf")
 };
 
 // PROJECTS SECTION
@@ -71,7 +72,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "sonozaki7", //i.e."johnDoe12Gh"
-  reposLength: 4,
+  reposLength: 7,
   specificRepos: [],
 };
 
@@ -81,22 +82,21 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
+    { name: "Node.js", value: 85 },
+    { name: "Data Structures", value: 80},
     { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "JavaScript", value: 80 },
+    { name: "React", value: 85 },
+    { name: "HTML/CSS", value: 64 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
     { name: "Collaboration", value: 90 },
     { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
-    { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
+    { name: "Adaptability", value: 95 },
+    { name: "Problem Solving", value: 85 },
+    { name: "Empathy", value: 75 },
+    { name: "Organization", value: 80 },
     { name: "Creativity", value: 90 },
   ],
 };
@@ -106,14 +106,14 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      role: 'Tech Assistant',// Here Add Company Name
+      companylogo: require('../assets/img/UBCO.png'),
+      date: 'May 2020 – August 2020',
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      role: 'Game Test Intern, QA',
+      companylogo: require('../assets/img/BSicon.png'),
+      date: 'May 2021 – Nov 2021',
     },
   ]
 }
