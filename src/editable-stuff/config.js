@@ -1,6 +1,3 @@
-var profile_loc = "../editable-stuff/portfolio_profile_pic.jpeg"
-var resume_loc = "../editable-stuff/resume.pdf"
-
 // Navigation Bar SECTION
 const navBar = {
   show: true,
@@ -54,7 +51,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/portfolio_profile_pic.jpeg"),
+  imageLink: require("./portfolio_profile_pic.jpeg"),
   imageSize: 375,
   message:
     "My name is So Nozaki. I am a 4th year Computer Engineering student at UBC. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
@@ -126,13 +123,13 @@ const leadership = {
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
   images: [
     { 
-      img: require("../editable-stuff/portfolio_profile_pic.jpeg"), 
+      img: require("./portfolio_profile_pic.jpeg"), 
       label: "First slide label", 
       paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
       //img: require("../editable-stuff/hashirshoaeb.png"), 
-      img: require("../editable-stuff/portfolio_profile_pic.jpeg"), 
+      img: require("./portfolio_profile_pic.jpeg"), 
       label: "Second slide label", 
       paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
