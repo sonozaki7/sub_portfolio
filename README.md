@@ -13,11 +13,10 @@
     👀 I’m interested in Software development.
     🌱 I’m currently learning Computer Engineering at UBC.
     💞️ I’m looking to collaborate on web application project.
-    📫 How to reach me : Connect with me at Twitter @so_nozaki
   
     <br />
     <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
+    <a href="https://sonozaki7.github.io">About Me</a>
   </p>
 </p>
 
