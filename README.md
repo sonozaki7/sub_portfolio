@@ -11,10 +11,10 @@
     💞️ I’m looking to collaborate on web application project. <br />
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.  <br />
     Live Demo website : 
-    <a href="https://sonozaki7.github.io/portfolio">sonozaki7.github.io/portfolio</a>
+    <a href="https://sonozaki7.github.io/portfolio">sonozaki7.github.io/sub_portfolio</a>
     <br />
     <br />
-    <a href="https://sonozaki7.github.io">About Me</a>
+    <a href="https://sonozaki7.github.io/portfolio">About Me</a>
   </p>
 </p>
 
