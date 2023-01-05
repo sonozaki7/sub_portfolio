@@ -5,13 +5,13 @@
   <h1 align="center">So's Portfolio ✨</h1>
 
   <p align="center">
-    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. 
+    👋 Hi, I’m So <br />
+    👀 I’m interested in Software development. <br />
+    🌱 I’m currently learning Computer Engineering at UBC. <br />
+    💞️ I’m looking to collaborate on web application project. <br />
+    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.  <br />
     Live Demo website : 
     <a href="https://sonozaki7.github.io/portfolio">sonozaki7.github.io/portfolio</a>
-    👋 Hi, I’m So
-    👀 I’m interested in Software development.
-    🌱 I’m currently learning Computer Engineering at UBC.
-    💞️ I’m looking to collaborate on web application project.
     <br />
     <br />
     <a href="https://sonozaki7.github.io">About Me</a>
